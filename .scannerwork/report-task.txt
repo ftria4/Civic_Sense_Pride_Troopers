@@ -1,0 +1,7 @@
+organization=ftria4-github
+projectKey=ftria4_Civic_Sense_Pride_Troopers
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.24676
+dashboardUrl=https://sonarcloud.io/dashboard?id=ftria4_Civic_Sense_Pride_Troopers
+ceTaskId=AWrBeRh1eCTcsUmsa7kr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWrBeRh1eCTcsUmsa7kr
